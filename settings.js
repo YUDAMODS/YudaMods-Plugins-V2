@@ -32,11 +32,11 @@ global.fla =
   "https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text="
 global.wait = "```L o a d i n g ...```";
 global.eror = "`! Error Command Failed`"
-global.packname = "© Noxz Cry";
+global.packname = "© YudaMods";
 global.author = "Made by YudaMods"
 //Ini Isi pakai video & poto lu
-global.gif = "https://telegra.ph/file/e1b2d7c0ac4838ebd20d1.jpg"; 
-global.thumb = "https://telegra.ph/file/e1b2d7c0ac4838ebd20d1.jpg"
+global.gif = "https://telegra.ph/file/c3b0744adfbbe0bf835b1.png"; 
+global.thumb = "https://telegra.ph/file/c3b0744adfbbe0bf835b1.png"
 global.multiplier = 45;
 global.rpg = {
   emoticon(string) {
@@ -113,7 +113,7 @@ externalAdReply: {
             },
             forwardingScore: 256,
 externalAdReply: {
-        title: `☢️ Noxz Cry ver 5.0 - Noxz`,
+        title: `☢️ YudaMods ver 5.0 - Vip`,
         body: wm,
         thumbnailUrl: thumb,
         sourceUrl: "",
@@ -136,7 +136,7 @@ externalAdReply: {
             },
             forwardingScore: 256,
 externalAdReply: {
-        title: `☢️ Noxz Cry -- Simple WhatsApp bot\n• Version: ${global.version}`,
+        title: `☢️ YudaMods -- Simple WhatsApp bot\n• Version: ${global.version}`,
         body: wm,
         thumbnailUrl: icon,
         sourceUrl: "",
@@ -199,4 +199,4 @@ async function resize(url, width, height, referer = null) {
 
 function pickRandom(list) {
     return list[Math.floor(list.length * Math.random())];
-}
+        }
